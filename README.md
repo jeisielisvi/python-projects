@@ -1,3 +1,3 @@
 # Git Versionamentos
 
-Meus primeiros projetos em Python através da certificação freCodCamp.
+Meus primeiros projetos em Python através da certificação freeCodeCamp.
